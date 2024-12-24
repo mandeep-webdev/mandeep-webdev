@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Mandeep Kaur | Frontend Developer </h1>[https://github.com/mandeep-webdev/mandeep-webdev/blob/main/undraw_web-development_0wdh.svg]
+ <h1 align="center">Hi 👋, I'm Mandeep Kaur | Frontend Developer </h1>
 
 - 🔭 I’m currently working as a Frontend Developer
 - 📫 How to reach me: mandeep.fullstack.dev@gmail.com
