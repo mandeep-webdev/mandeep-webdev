@@ -7,7 +7,14 @@
 🧠 I have a solid understanding of **Data Structures and Algorithms (DSA)** and enjoy solving complex problems.<br>
 💬 Feel free to reach out if you have any questions about **frontend development**, **React**, **DSA**, or **JavaScript**<br>
 📫 How to reach me: **mandeep.fullstack.dev@gmail.com**.<br>
-🌟 Open to collaborations and opportunities in **frontend development**.<br>
+🌟 Open to collaborations and opportunities in **frontend development**.<br/>
+
+### Connect with me 🔗
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mandeep-kaur05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mandeep-kaur05/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/mandeep_kaur21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mandeep_kaur21/" height="30" width="40" /></a>
+</p>
+
 
 ### ⚙️  My Tech Stack
 
@@ -38,19 +45,6 @@
 <img src="https://github-stats-alpha.vercel.app/api/?username=mandeep-webdev&cc=333333&tc=ffffff&ic=4B8BDA" alt="stats"/>
  
 </p>
-
-### Let's Connect with me:
-<div id="badges">
-  <a href="https://github.com/mandeep-webdev">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
- <a href="https://github.com/mandeep-webdev">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-</div>
-
-
-
 
 
 
