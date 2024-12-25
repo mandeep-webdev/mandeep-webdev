@@ -9,17 +9,47 @@
 📫 How to reach me: **mandeep.fullstack.dev@gmail.com**.<br>
 🌟 Open to collaborations and opportunities in **frontend development**.<br>
 
+### ⚙️  My Tech Stack
 
-  
-### Connect with me:
+#### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java)](https://skillicons.dev)
+
+#### Frameworks, Platforms and Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,redux,vite,graphql,nextjs,tailwind,sass,materialui,bootstrap,yarn,npm)](https://skillicons.dev)
+
+#### Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,webpack)](https://skillicons.dev)
+
+#### Hoisting
+[![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+
+### Github Analytics
+<p align="center">
+<a href="https://github.com/mandeep-webdev"></a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mandeep-webdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mandeep-webdev&layout=compact&langs_count=8&theme=algolia"/>
+ 
+</p>
+<p align="center">
+<a href="https://github.com/mandeep-webdev"></a>
+<img src="https://github-stats-alpha.vercel.app/api/?username=mandeep-webdev&cc=333333&tc=ffffff&ic=4B8BDA" alt="stats"/>
+ 
+</p>
+
+### Let's Connect with me:
 <div id="badges">
   <a href="https://github.com/mandeep-webdev">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+ <a href="https://github.com/mandeep-webdev">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,nextjs,js,ts,html,css,git)](https://skillicons.dev)
+
 
 
 
