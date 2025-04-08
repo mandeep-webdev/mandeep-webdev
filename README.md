@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java)](https://skillicons.dev)
 
 #### Frameworks, Platforms and Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,redux,vite,graphql,nextjs,tailwind,sass,materialui,bootstrap,yarn,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,vite,graphql,nextjs,tailwind,sass,materialui,bootstrap,yarn,npm,nodejs,express)](https://skillicons.dev)
 
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,webpack)](https://skillicons.dev)
@@ -32,7 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb)](https://skillicons.dev)
 
 ### Github Analytics
 <p align="center">
