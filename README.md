@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=26&pause=1000&color=E9F7E0&width=505&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%E2%9A%9B%EF%B8%8F+React+Enthusiast+;%F0%9F%8C%90+Tech+Explorer)](https://git.io/typing-svg)
 
-🔭 I’m currently working as a **Frontend Developer** specializing in **React.js** , **Next.js** and building interactive web applications.<br>
-🌱 I’m focusing on enhancing my skills in **React**, **JavaScript**, and exploring **React Native** for mobile app development.<br>
-🧠 I have a solid understanding of **Data Structures and Algorithms (DSA)** and enjoy solving complex problems.<br>
-💬 Feel free to reach out if you have any questions about **frontend development**, **React**, **DSA**, or **JavaScript**<br>
+🔭 I’m a **Frontend Developer** passionate about building interactive and performant web applications using **React.js** and **Next.js**.<br>
+🌱 Currently sharpening my skills in **React Native** for mobile app development, and diving deeper into backend technologies like **Node.js** and **Express.js**.<br>
+🧠 I’m also actively learning **Data Structures and Algorithms (DSA)** to strengthen my problem-solving abilities.<br>
+💬 Always happy to chat about **frontend development**, **React**, **JavaScript**, **DSA**, or **backend tech!**<br>
 📫 How to reach me: **mandeep.fullstack.dev@gmail.com**.<br>
-🌟 Open to collaborations and opportunities in **frontend development**.<br/>
+🌟 Open to exciting collaborations and opportunities in **frontend and full-stack development**.<br/>
 ### 📖 Check out my blog posts
 - [Mastering JavaScript Closures: Straightforward Examples for Beginners](https://frontendunlocked.hashnode.dev/mastering-javascript-closures-straightforward-examples-for-beginners)
 - [JavaScript Shallow Copy vs Deep Copy: Explained for Beginners](https://frontendunlocked.hashnode.dev/javascript-shallow-copy-vs-deep-copy-explained-for-beginners)
