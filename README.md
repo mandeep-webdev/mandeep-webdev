@@ -8,6 +8,10 @@
 💬 Feel free to reach out if you have any questions about **frontend development**, **React**, **DSA**, or **JavaScript**<br>
 📫 How to reach me: **mandeep.fullstack.dev@gmail.com**.<br>
 🌟 Open to collaborations and opportunities in **frontend development**.<br/>
+### 📖 Check out my blog posts
+- [Mastering JavaScript Closures: Straightforward Examples for Beginners]([https://frontendunlocked.hashnode.dev/mastering-javascript-closures-straightforward-examples-for-beginners])
+- [Mastering JavaScript Closures: Straightforward Examples for Beginners]([https://frontendunlocked.hashnode.dev/javascript-shallow-copy-vs-deep-copy-explained-for-beginners])
+
 
 ### Connect with me 🔗
 
