@@ -6,7 +6,7 @@
 🌱 Currently sharpening my skills in **React Native** for mobile app development, and diving deeper into backend technologies like **Node.js** and **Express.js**<br>
 🧠 I’m also actively learning **Data Structures and Algorithms (DSA)** to strengthen my problem-solving abilities.<br>
 💬 Always happy to chat about **frontend development**, **React**, **JavaScript**, **DSA**, or **backend tech!**<br>
-📫 How to reach me: **mandeep.fullstack.dev@gmail.com**.<br>
+📫 How to reach me: **mandeep.fullstack.dev@gmail.com**<br>
 🌟 Open to exciting collaborations and opportunities in **frontend and full-stack development**.<br/>
 ### 📖 Check out my blog posts
 - [Mastering JavaScript Closures: Straightforward Examples for Beginners](https://frontendunlocked.hashnode.dev/mastering-javascript-closures-straightforward-examples-for-beginners)
