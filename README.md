@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=26&pause=1000&color=E9F7E0&width=505&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%E2%9A%9B%EF%B8%8F+React+Enthusiast+;%F0%9F%8C%90+Tech+Explorer)](https://git.io/typing-svg)
 
-🔭 I’m a **Frontend Developer** passionate about building interactive and performant web applications using **React.js** and **Next.js**.<br>
-🌱 Currently sharpening my skills in **React Native** for mobile app development, and diving deeper into backend technologies like **Node.js** and **Express.js**.<br>
+🔭 I’m a **Frontend Developer** passionate about building interactive and performant web applications using **React.js** and **Next.js**<br>
+🌱 Currently sharpening my skills in **React Native** for mobile app development, and diving deeper into backend technologies like **Node.js** and **Express.js**<br>
 🧠 I’m also actively learning **Data Structures and Algorithms (DSA)** to strengthen my problem-solving abilities.<br>
 💬 Always happy to chat about **frontend development**, **React**, **JavaScript**, **DSA**, or **backend tech!**<br>
 📫 How to reach me: **mandeep.fullstack.dev@gmail.com**.<br>
