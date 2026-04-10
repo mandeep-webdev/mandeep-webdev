@@ -2,13 +2,7 @@
 
 <p align="center">
   <strong>Frontend Developer | React.js • Next.js • TypeScript</strong><br/>
-  🚀 Looking for <strong>remote full-time frontend opportunities</strong>
-</p>
-
-<p align="center">
-  <a href="https://mandeep-kaur-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-mandeep--kaur--portfolio.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
@@ -33,20 +27,10 @@
 
 ---
 
-### 🌟 Featured Project
-
-| Project | Tech Stack | Key Highlight |
-|---------|------------|----------------|
-| **AI Resume Builder** | React, TypeScript, AI Agents (LLaMA/Grok) | AI-powered content generation & resume optimization |
-
-> 🔗 *More projects on my [portfolio](https://mandeep-kaur-portfolio.netlify.app) or [GitHub](https://github.com/mandeep-webdev)*
-
----
-
 ### 📫 Connect With Me
 
 **📧 Email:** mandeep.fullstack.dev@gmail.com  
-**💼 Looking for:** Remote full-time frontend/full-stack roles
+**💼 Looking for:** Remote full-time frontend role
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandeep-webdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mandeep-kaur05)
