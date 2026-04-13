@@ -22,7 +22,7 @@
 
 - Deepening expertise in **Next.js (App Router, SSR, ISR)**
 - Building **AI-powered web applications** (LLaMA, Grok, OpenAI)
-- Learning **Jest & Cypress** for testing (coming soon!)
+- Learning **Jest & Cypress** for testing
 - Strengthening **DSA & system design** for product company interviews
 
 ---
