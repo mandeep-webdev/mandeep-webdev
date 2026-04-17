@@ -79,7 +79,7 @@ I actively contribute to open source projects — fixing bugs and building featu
 
 | Repository | Contribution | Status |
 |------------|-------------|--------|
-| [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io/pull/277) | feat: implement horizontal spring with draggable body | 🟡 Open |
+| [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io/pull/277) | feat: implement horizontal spring with draggable body | ✅ Merged|
 | [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io/pull/270) | fix: comma to insert dot | ✅ Merged |
 | [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io/pull/262) | fix: resolved NaN issue in the input field | ✅ Merged |
 | [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io/pull/260) | fix: number input shows 0 when empty instead of blank | ✅ Merged |
